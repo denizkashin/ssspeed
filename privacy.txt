@@ -1,0 +1,122 @@
+### ru
+
+0. **Подзаголовок**  
+Точный GPS-спидометр
+
+1. **Рекламный текст** (≤170)  
+Точный GPS-спидометр и трекер поездок: текущая скорость, дистанция, максимальная скорость, история заездов и живые виджеты на экране блокировки.
+
+2. **Описание** (≤4000)  
+`ssspeed!` — минималистичный GPS-спидометр и трекер поездок для тех, кто хочет видеть реальную скорость и статистику заездов без лишнего шума.  
+  
+Приложение использует данные GPS, чтобы показывать вашу текущую скорость с учётом выбранной единицы измерения (км/ч или миль/ч), считать дистанцию, время в пути и максимальную скорость за поездку.  
+  
+### Основные возможности  
+- Точный **GPS-спидометр** с крупным цифровым отображением скорости.  
+- Поддержка **км/ч и миль/ч** — быстро переключайтесь под свои привычки.  
+- **История поездок**: дистанция, время, максимальная скорость и другие ключевые показатели.  
+- Умная фильтрация GPS-аномалий, чтобы убрать «скачки» и нереалистичные значения скорости.  
+- Режим **высокой точности GPS** для более стабильных измерений.  
+- **Live Activity / Dynamic Island**: прогресс поездки, скорость и время прямо на экране блокировки.  
+- Работа в фоне во время активной поездки.  
+  
+`ssspeed!` аккуратно использует местоположение, чтобы не тратить батарею лишний раз, и запрашивает доступ только тогда, когда это действительно нужно для работы спидометра и трекинга.  
+  
+Приложение подойдёт водителям, мотоциклистам, велосипедистам и всем, кто хочет контролировать свою скорость и собирать историю заездов в одном аккуратном интерфейсе.
+
+3. **Ключевые слова** (≤100, без пробелов)  
+GPS,спидометр,скорость,трип,поездка,трекинг,велосипед,авто,динамическийостров,LiveActivity,kmh,mph
+
+---
+
+### en
+
+0. **Subtitle**  
+Accurate GPS speedometer
+
+1. **Promotional text** (≤170)  
+Accurate GPS speedometer and trip tracker with live stats, ride history, smart GPS filtering and Lock Screen / Dynamic Island widgets.
+
+2. **Description** (≤4000)  
+`ssspeed!` is a clean GPS speedometer and trip tracker for drivers, riders and cyclists who want real speed and ride stats without clutter.  
+  
+The app uses GPS data to show your current speed, distance, trip time and maximum speed, with support for both km/h and mph. You can quickly switch units to match your habits and see all key metrics in a large, readable layout.  
+  
+### Features  
+- Accurate **GPS speedometer** with big digital speed readout.  
+- Support for **km/h and mph** with easy switching.  
+- **Ride history** with distance, duration and max speed for each trip.  
+- Smart **GPS anomaly filtering** to reduce random spikes and unrealistic speed jumps.  
+- **High-accuracy GPS** mode for more stable measurements.  
+- **Live Activity / Dynamic Island**: live speed and trip progress on your Lock Screen.  
+- Background updates while a ride is in progress.  
+  
+`ssspeed!` only uses your location to power the speedometer and trip tracking and is optimized to avoid unnecessary battery drain.  
+  
+Whether you drive a car, ride a bike or just want to monitor your speed and distance, `ssspeed!` gives you a focused dashboard for every trip.
+
+3. **Keywords** (≤100, no spaces)  
+gps,speedometer,speed,trip,tracker,driving,cycling,run,car,dashboard,liveactivity,dynamicisland,kmh,mph
+
+---
+
+### zh-Hans
+
+0. **副标题**  
+精准 GPS 车速表
+
+1. **推广文案** (≤170)  
+精准 GPS 车速表与行程记录：实时速度、距离、最大速度、行程历史，以及锁屏上的实时小组件。
+
+2. **描述** (≤4000)  
+`ssspeed!` 是一款极简的 GPS 车速表和行程记录工具，适合想要清晰查看实时速度和骑行/驾车数据、又不想被复杂界面打扰的用户。  
+  
+应用使用 GPS 数据显示当前速度、行驶距离、用时和本次行程的最大速度，并支持在 **km/h 与 mph** 之间快速切换，让你在任何国家都能用习惯的单位查看数据。  
+  
+### 主要功能  
+- 精准的 **GPS 车速表**，大号数字显示当前速度。  
+- 支持 **千米/小时 (km/h)** 和 **英里/小时 (mph)**，一键切换。  
+- **行程历史**：为每次出行保存距离、时间、最大速度等关键指标。  
+- 智能过滤 GPS 异常点，尽量减少速度「乱跳」和不真实的峰值。  
+- **高精度 GPS 模式**，在需要时获得更稳定的速度与轨迹。  
+- **Live Activity / 动态岛**：在锁屏上查看速度与行程进度。  
+- 出行过程中支持后台运行。  
+  
+`ssspeed!` 谨慎使用你的位置信息，只在需要显示速度和记录轨迹时才访问 GPS，并尽量减少额外的电量消耗。  
+  
+无论是开车、骑行、跑步还是其他移动场景，只要你想知道「我现在到底有多快」，`ssspeed!` 都能提供一个干净、专注的仪表盘。
+
+3. **关键词** (≤100, 无空格)  
+gps,车速表,速度,行程,轨迹,骑行,驾车,记录,历史,小组件,锁屏,动态岛,kmh,mph
+
+---
+
+### fr
+
+0. **Sous-titre**  
+Compteur de vitesse GPS précis
+
+1. **Texte promotionnel** (≤170)  
+Compteur de vitesse GPS précis et suivi de trajets : vitesse en temps réel, distance, vitesse max, historique des trajets et widgets sur l’écran verrouillé.
+
+2. **Description** (≤4000)  
+`ssspeed!` est un compteur de vitesse GPS minimaliste avec suivi de trajets, pensé pour ceux qui veulent voir leur vitesse réelle et les statistiques essentielles, sans interface chargée.  
+  
+L’app utilise les données GPS pour afficher votre vitesse actuelle, la distance parcourue, la durée du trajet et la vitesse maximale, avec prise en charge des unités **km/h** et **mph**. Vous pouvez changer d’unité en un geste et garder toutes les informations importantes dans une vue claire et lisible.  
+  
+### Fonctionnalités  
+- **Compteur de vitesse GPS précis** avec affichage numérique bien lisible.  
+- Support des unités **km/h et mph** avec bascule rapide.  
+- **Historique des trajets** : distance, durée, vitesse max et autres indicateurs clés.  
+- Filtrage intelligent des anomalies GPS pour limiter les pics de vitesse irréalistes.  
+- Mode **GPS haute précision** pour des mesures plus stables lorsque c’est nécessaire.  
+- **Live Activity / Dynamic Island** : vitesse et progression du trajet directement sur l’écran verrouillé.  
+- Fonctionnement en arrière‑plan pendant vos trajets.  
+  
+`ssspeed!` utilise votre localisation uniquement pour alimenter le compteur de vitesse et l’enregistrement des trajets, et est optimisé pour réduire la consommation de batterie inutile.  
+  
+Que vous conduisiez une voiture, rouliez à vélo ou souhaitiez simplement suivre votre vitesse et vos distances, `ssspeed!` vous offre un tableau de bord simple et efficace pour chaque sortie.
+
+3. **Mots-clés** (≤100, sans espaces)  
+gps,compteurdevitesse,vitesse,trajet,suivi,voiture,vélo,statistiques,historique,widget,écranverrouillé,dynamicisland,kmh,mph
+
