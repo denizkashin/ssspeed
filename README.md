@@ -77,8 +77,7 @@ You stay in control: you can revoke location access at any time in system Settin
 
 ### Platforms & requirements
 
-- **iOS**: Requires iOS 17+ (Live Activities / Dynamic Island features where supported).  
-- **Android**: Requires a reasonably recent Android device with GPS.
+- **iOS**: Requires iOS 26+ (Live Activities / Dynamic Island features where supported).  
 
 For the best experience:
 
@@ -88,5 +87,5 @@ For the best experience:
 
 ### Feedback
 
-If you spot a bug, have an idea for a new feature, or just want to share a cool speed record, feel free to reach out via the store page where you downloaded `ssspeed!`. Your feedback directly shapes future updates.
+If you spot a bug, have an idea for a new feature, or just want to share a cool speed record, feel free to create issue here.
 
