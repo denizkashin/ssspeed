@@ -1,0 +1,125 @@
+TERMS OF USE (END USER LICENSE AGREEMENT)
+
+Last Updated: February 21, 2026
+
+This End User License Agreement (“Agreement”) is a legal agreement between you (“User”, “you”, or “your”) and Denis Kashin (“Licensor”, “we”, “us”, or “our”), an individual residing in the Russian Federation, governing your use of the mobile application ssspeed! (the “Application”) made available through the Apple App Store.
+
+By downloading, installing, or using the Application, you agree to be bound by this Agreement. If you do not agree, do not use the Application.
+
+⸻
+
+1. License Grant
+
+Subject to your compliance with this Agreement, Licensor grants you a limited, non-exclusive, non-transferable, revocable license to use the Application on Apple-branded devices that you own or control, and as permitted by the Usage Rules set forth in the Apple Media Services Terms and Conditions.
+
+The Application is licensed, not sold, to you.
+
+⸻
+
+2. Subscription Terms
+
+The Application offers auto-renewable subscription plans.
+
+2.1 Free Trial
+
+A 3-day free trial may be offered to new users.
+	•	The free trial begins immediately upon subscription activation.
+	•	If you do not cancel at least 24 hours before the trial period ends, the subscription will automatically convert into a paid subscription.
+	•	Any unused portion of the free trial period will be forfeited upon purchase of a subscription.
+
+2.2 Subscription Billing
+	•	Payment will be charged to your Apple ID account at confirmation of purchase.
+	•	Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.
+	•	Your account will be charged for renewal within 24 hours prior to the end of the current period.
+	•	You may manage and cancel your subscriptions by going to your Apple ID account settings after purchase.
+
+⸻
+
+3. Apple Standard EULA
+
+This Agreement is concluded between you and Denis Kashin only, and not with Apple.
+
+If this Agreement does not contain a required provision, the Licensed Application shall be governed by the Standard Apple Licensed Application End User License Agreement, available at:
+
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+In the event of a conflict between this Agreement and the Apple Standard EULA, the Apple Standard EULA shall prevail where applicable.
+
+⸻
+
+4. No User-Generated Content
+
+The Application does not allow users to upload, publish, or distribute content. All functionality is limited to personal use of the Application’s features.
+
+⸻
+
+5. Restrictions
+
+You agree not to:
+	•	Reverse engineer, decompile, disassemble, or attempt to derive source code
+	•	Modify or create derivative works of the Application
+	•	Circumvent subscription or payment systems
+	•	Use the Application for unlawful or unauthorized purposes
+	•	Interfere with the security or proper functioning of the Application
+
+⸻
+
+6. Intellectual Property
+
+All rights, title, and interest in and to the Application, including all intellectual property rights, remain the exclusive property of Denis Kashin.
+
+No ownership rights are transferred to you under this Agreement.
+
+⸻
+
+7. Privacy Policy
+
+Your use of the Application is also governed by the Privacy Policy, available at:
+
+https://github.com/denizkashin/ssspeed/blob/master/privacy.txt
+
+⸻
+
+8. Disclaimer of Warranties
+
+The Application is provided “AS IS” and “AS AVAILABLE” without warranties of any kind.
+
+To the maximum extent permitted by applicable law, Licensor disclaims all warranties, whether express or implied, including but not limited to:
+	•	Merchantability
+	•	Fitness for a particular purpose
+	•	Non-infringement
+
+⸻
+
+9. Limitation of Liability
+
+To the fullest extent permitted by law, Licensor shall not be liable for:
+	•	Indirect, incidental, special, consequential, or punitive damages
+	•	Loss of data
+	•	Loss of profits or revenue
+
+Licensor’s total liability shall not exceed the amount paid by you for the subscription during the twelve (12) months preceding the claim.
+
+⸻
+
+10. Termination
+
+This Agreement is effective until terminated.
+
+Your rights under this license will terminate automatically if you fail to comply with any term of this Agreement.
+
+Upon termination, you must cease all use of the Application.
+
+⸻
+
+11. Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the Russian Federation, without regard to conflict of law principles.
+
+⸻
+
+12. Changes to This Agreement
+
+Licensor reserves the right to update or modify this Agreement at any time.
+
+Continued use of the Application after changes are posted constitutes acceptance of the revised Agreement.
